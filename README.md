@@ -13,6 +13,7 @@ N/A
 
 Live URL: https://megankr.github.io/megankr-weatherapplication/
 
+<img width="1176" alt="Screenshot 2023-10-17 at 10 27 32 PM" src="https://github.com/megankr/megankr-weatherapplication/assets/143129740/e6d4f9b4-9dab-4bc5-8d4a-853bbc465648">
 
 
 ## Credits
