@@ -74,7 +74,7 @@ $(".btn").on("click", function () {
     // Add the city to the search history
     cityHistoryList.push(cityName);
     localStorage.setItem("city", JSON.stringify(cityHistoryList));
-    // Call a function to fetch and display weather data
+    // Call and display weather data
     getOpenWeather(cityName);
     // Clear the input field
     cityInput.val("");
